@@ -39,12 +39,3 @@ This project demonstrates a **Hospital Management System** using **MongoDB** and
 ### 4. Medical Record
 - **Fields**: `patient`, `doctor`, `diagnosis`, `prescription`, `visitDate`
 - **Relationships**: References `Patient` and `Doctor`.
-
----
-
-## Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/hospital-management-system.git
-   cd hospital-management-system
